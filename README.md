@@ -30,7 +30,7 @@ In today's fast-paced world, managing time effectively is crucial. **The Schema*
 
 ---
 
-## Screenshots 
+## 📊 Screenshots 
 <img width="925" height="470" alt="image" src="https://github.com/user-attachments/assets/33306d94-aa43-4af0-bdbc-50f8dc06a2ce" />
 <img width="750" height="425" alt="image" src="https://github.com/user-attachments/assets/fd744dc8-972f-4ce6-8d92-850526e36015" />
 <img width="684" height="412" alt="image" src="https://github.com/user-attachments/assets/cb837c9f-fb93-494a-84fb-1bd6aa689d79" />
